@@ -5,11 +5,11 @@
 ## 安装
 
 ```bash
-# 全局安装
-npm install -g sage-cli
+# 全局安装（从 GitHub）
+npm install -g github:Hiworle/sage-cli
 
 # 或在博客项目中作为依赖
-npm install sage-cli --save
+npm install --save github:Hiworle/sage-cli
 ```
 
 ## 命令
