@@ -1,0 +1,23 @@
+{
+  "name": "sage-cli",
+  "version": "1.0.0",
+  "description": "极简静态博客 CLI 工具 - 创建、构建、预览、发布、迁移",
+  "bin": {
+    "sage": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"暂无测试\" && exit 0"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "highlight.js": "^11.11.1"
+  },
+  "keywords": [
+    "blog",
+    "static-site",
+    "cli",
+    "markdown"
+  ],
+  "license": "MIT"
+}
